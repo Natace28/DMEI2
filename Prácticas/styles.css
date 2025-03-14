@@ -1,0 +1,12 @@
+/** esto es una hoja de estilos externa **/
+
+
+body {
+    background-color:rgb(41, 91, 218);
+ }
+
+ #contenido {
+    width: 1000px; 
+    margin: 100px auto;
+
+ }
