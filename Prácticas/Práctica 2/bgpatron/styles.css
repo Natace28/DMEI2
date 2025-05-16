@@ -1,0 +1,13 @@
+/** esto es una hoja de estilos externa **/
+
+
+body {
+    background-color:rgb(41, 91, 218);
+    background-image: url("img/formula.png");
+ }
+
+ #contenido {
+    width: 1000px; 
+    height: 10000px;
+
+ }

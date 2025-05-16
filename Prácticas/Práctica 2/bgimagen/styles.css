@@ -2,8 +2,9 @@
 
 
 body {
-    background-color:rgb(255,0,0);
-    /** background-image: url("img/formula.png"); **/
+    background-color:rgb(41, 91, 218);
+    background-image: url("img/formula.png");
+    background-size: cover;
  }
 
  #contenido {
